@@ -1,6 +1,6 @@
 <ins>**Project Title:**<ins> 
 
-Maze Solving Algorithm Comparisons & Experimental Designs between BFS, AStar, and ACO.
+Maze Solving Algorithm Comparisons & Experimental Designs between BFS, A Star, and GBFS.
 
 <ins>**Team Members:**<ins> 
 
@@ -12,7 +12,7 @@ Finding the shortest possible path from a starting position to an ending positio
 
 <ins>**Algorithms Implemented:**<ins> 
 
-Breadth-First Search (BFS), AStar Search, Ant Colony Optimization (ACO).
+Breadth-First Search (BFS), A Star Search, Greedy Best-First Search (GBFS).
 
 <ins>**Dataset(s) Used:**<ins>
 
@@ -20,7 +20,7 @@ Synthetically Generated Dataset(s).
 
 <ins>**How To Run:**<ins>
 
-To run the AStar Search, download all five "ASTAR" python files from the code section. Create a folder with all files, and then go into VS Code and open that folder. Open up all five python files in VS Code, go to the "ASTARmaindriver.py" file, and press the run button in VS Code. Dependencies needed include matplotlib (pip install matplotlib), pandas (pip install pandas), and numpy (pip install numpy).
+Place all Python files in the code directory into a folder. Open that folder in Visual Studio Code. Go to the main.py file. Press the run button (top left play icon in Visual Studio Code). The graphs will appear as png files in the folder when it finishes running.
 
 <ins>**GenAI Usage Disclosure:**<ins>
 
